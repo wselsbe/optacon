@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "microchip_hv")(type "KiCad")(uri "${KIPRJMOD}/optacon.kicad_sym")(options "")(descr ""))
+)

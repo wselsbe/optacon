@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HV528K6-G
+D Serial to Parallel Logic Converters 16 Channel Serial to Parallel Converters
+K
+F https://www.mouser.com/datasheet/2/268/hv528-968113.pdf
+$ENDCMP
+#
+#End Doc Library

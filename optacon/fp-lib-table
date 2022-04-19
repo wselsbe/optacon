@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "microchip_hv")(type "KiCad")(uri "${KIPRJMOD}/microchip_hv.pretty")(options "")(descr ""))
+)
