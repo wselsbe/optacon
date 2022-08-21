@@ -533,7 +533,7 @@
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 9b439d4b-dcef-4809-9ea3-9e4c901adb9c)
   )
-  (hierarchical_label "VBST" (shape input) (at 180.34 64.77 0)
+  (hierarchical_label "VBST" (shape output) (at 180.34 64.77 0)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid c47b2c7e-0022-47ba-b6ac-b4dd7cbac0c3)
   )

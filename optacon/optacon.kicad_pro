@@ -436,6 +436,10 @@
     [
       "de858789-f791-428c-b810-2c6120320e8e",
       "hv_driver"
+    ],
+    [
+      "488f8d40-8ebd-4514-a509-75fe26050312",
+      "shift_registers"
     ]
   ],
   "text_variables": {}
