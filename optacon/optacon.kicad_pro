@@ -385,7 +385,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "optacon.step",
+      "step": "optacon_v2.1.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
