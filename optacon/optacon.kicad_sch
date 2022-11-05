@@ -1302,10 +1302,10 @@
       (reference "TP7") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
     )
     (path "/488f8d40-8ebd-4514-a509-75fe26050312/540fb909-0221-4a7a-ba3f-fa10c5679a0b"
-      (reference "U1") (unit 1) (value "HV528") (footprint "Package_DFN_QFN:HVQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm")
+      (reference "U1") (unit 1) (value "HV528") (footprint "Package_DFN_QFN:HVQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias")
     )
     (path "/488f8d40-8ebd-4514-a509-75fe26050312/c03b251c-19c0-425c-8497-41eb3fe6bdcf"
-      (reference "U2") (unit 1) (value "HV528") (footprint "Package_DFN_QFN:HVQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm")
+      (reference "U2") (unit 1) (value "HV528") (footprint "Package_DFN_QFN:HVQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias")
     )
     (path "/de858789-f791-428c-b810-2c6120320e8e/ed71d768-b0b4-4f68-9075-d64c926203b5"
       (reference "U3") (unit 1) (value "DRV2665") (footprint "Package_DFN_QFN:Texas_S-PVQFN-N20_EP2.7x2.7mm_ThermalVias")
