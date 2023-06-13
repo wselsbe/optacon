@@ -3,3 +3,5 @@ optacon/optacon-backups/*.zip
 .venv/**
 **/__pycache__/**
 **/fp-info-cache
+**/*autosave*
+**/*auto_save*
