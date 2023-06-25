@@ -1,7 +1,9 @@
-optacon/optacon-backups/*.zip
 **/*.sync-conflict*
 .venv/**
 **/__pycache__/**
 **/fp-info-cache
 **/*autosave*
 **/*auto_save*
+**/*-backups/*.zip
+**.*-bak
+bak/**

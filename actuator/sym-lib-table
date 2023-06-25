@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "HV509")(type "KiCad")(uri "${KIPRJMOD}/../common/symbols/Microchip_HV509.kicad_sym")(options "")(descr ""))
+  (lib (name "DRV2665")(type "KiCad")(uri "${KIPRJMOD}/../common/symbols/TI_DRV2665.kicad_sym")(options "")(descr ""))
+)
