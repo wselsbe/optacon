@@ -333,7 +333,7 @@
   (symbol (lib_id "Device:R") (at 110.49 80.01 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 10348399-64a4-42df-a068-60bfe1fd2f3b)
-    (property "Reference" "R9" (at 113.03 78.74 0)
+    (property "Reference" "R4" (at 113.03 78.74 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "6.98k" (at 113.03 81.28 0)
@@ -350,7 +350,7 @@
     (instances
       (project "motherboard"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/743fec4a-685a-429b-a3d3-d79ae3ca3a17"
-          (reference "R9") (unit 1)
+          (reference "R4") (unit 1)
         )
       )
     )
@@ -362,7 +362,7 @@
     (property "Reference" "L1" (at 106.68 59.69 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "4.7µH" (at 106.68 62.23 90)
+    (property "Value" "3.3µH" (at 106.68 62.23 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Optacon_common:TDK_VLS_3012" (at 106.68 64.77 0)
@@ -385,7 +385,7 @@
   (symbol (lib_id "Device:R") (at 110.49 72.39 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 29beb74d-9650-4ed8-b1d9-8c3df5c1cd95)
-    (property "Reference" "R8" (at 113.03 71.12 0)
+    (property "Reference" "R3" (at 113.03 71.12 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "31.6k" (at 113.03 73.66 0)
@@ -402,7 +402,7 @@
     (instances
       (project "motherboard"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/743fec4a-685a-429b-a3d3-d79ae3ca3a17"
-          (reference "R8") (unit 1)
+          (reference "R3") (unit 1)
         )
       )
     )

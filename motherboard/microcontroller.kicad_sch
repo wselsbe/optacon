@@ -761,7 +761,7 @@
     (property "Reference" "SW1" (at 45.72 60.96 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "SW_Push" (at 45.72 63.5 0)
+    (property "Value" "RST" (at 45.72 63.5 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Button_Switch_SMD:SW_SPST_PTS810" (at 45.72 63.5 0)
@@ -787,7 +787,7 @@
   (symbol (lib_id "Device:R") (at 57.15 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid cf7e6da5-c665-4e04-92fc-cc702a9d5465)
-    (property "Reference" "R10" (at 59.69 63.5 0)
+    (property "Reference" "R5" (at 59.69 63.5 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "R" (at 59.69 66.04 0)
@@ -804,7 +804,7 @@
     (instances
       (project "motherboard"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/631e97d5-0781-48b4-a71b-4d5a2ac6a098"
-          (reference "R10") (unit 1)
+          (reference "R5") (unit 1)
         )
       )
     )
@@ -816,7 +816,7 @@
     (property "Reference" "SW2" (at 194.31 97.79 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "SW_Push" (at 193.04 103.886 0)
+    (property "Value" "BOOT" (at 193.04 103.886 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Footprint" "Button_Switch_SMD:SW_SPST_PTS810" (at 195.58 100.33 0)
