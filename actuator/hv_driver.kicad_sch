@@ -598,8 +598,8 @@
     (property "Part" "C30926" (at 80.01 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f211e341-7be4-4c4b-b062-c6978bb4506f))
-    (pin "2" (uuid 0201cf37-7909-4087-a97a-2e2dd3e4595a))
+    (pin "1" (uuid ebd3719a-46dc-4583-8c0e-02da41f8d230))
+    (pin "2" (uuid 8513111f-8c8e-4bfc-8d2b-ad677c4e5f47))
     (instances
       (project "actuator"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/de858789-f791-428c-b810-2c6120320e8e"
@@ -624,8 +624,8 @@
     (property "Datasheet" "~" (at 85.09 115.57 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a7ef5fb3-0960-4157-be73-6eebaabb6e65))
-    (pin "2" (uuid 35ba4f3a-0b91-45a0-83b7-2c976ab70df3))
+    (pin "1" (uuid 7450b8aa-1682-4f30-b96f-a2bb82a56733))
+    (pin "2" (uuid 35b5be7c-b498-47cd-8150-4a4f1f9893ed))
     (instances
       (project "actuator"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/de858789-f791-428c-b810-2c6120320e8e"
@@ -653,8 +653,8 @@
     (property "Part" "C237435" (at 113.03 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b4a550a7-a1db-4f6a-83cb-572fc5f69e22))
-    (pin "2" (uuid 91605ebc-e5fd-4ced-abd0-60aad8e8430e))
+    (pin "1" (uuid d2f5304f-5d91-496d-bd99-dcf9326c8078))
+    (pin "2" (uuid 38ed1a4c-a37d-47ac-a022-b38e32d9607b))
     (instances
       (project "actuator"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/de858789-f791-428c-b810-2c6120320e8e"
@@ -707,8 +707,8 @@
     (property "Part" "C509274" (at 154.94 74.93 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (pin "1" (uuid 2406d8a4-5a7e-4052-a090-66e23b173e5e))
-    (pin "2" (uuid 3fb0370a-ef5f-4968-98d3-3e24a771374e))
+    (pin "1" (uuid 56c84c83-7f8e-4746-9784-e0d207cb8032))
+    (pin "2" (uuid bedb806c-2a95-4da1-9423-2ec25efd5b6b))
     (instances
       (project "actuator"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/de858789-f791-428c-b810-2c6120320e8e"
@@ -786,8 +786,8 @@
     (property "Part" "C203676" (at 139.7 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a2f918eb-047b-4621-95ac-753f9285b6db))
-    (pin "2" (uuid c18ad96a-1af8-4841-91a2-0c0d8ee26d50))
+    (pin "1" (uuid f0b52f52-eec4-4b64-8d9a-8be64c23c9e2))
+    (pin "2" (uuid 0799da33-a242-453c-bdad-89999dedc9b4))
     (instances
       (project "actuator"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/de858789-f791-428c-b810-2c6120320e8e"
@@ -815,8 +815,8 @@
     (property "Part" "C5673" (at 64.77 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e29a4a6a-496b-411c-91a0-39c3e26a5fed))
-    (pin "2" (uuid 0eaa739f-faf6-404e-8b80-1baf9c93be4f))
+    (pin "1" (uuid 2bdceb72-e63d-4e68-b147-6c0d71334a88))
+    (pin "2" (uuid 9efa3d24-3e8a-4c1b-ad98-55b7074d7b58))
     (instances
       (project "actuator"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/de858789-f791-428c-b810-2c6120320e8e"
@@ -841,8 +841,8 @@
     (property "Datasheet" "~" (at 92.71 115.57 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 37216242-252f-4772-8a9e-b45f8dafb224))
-    (pin "2" (uuid 2e7509c9-fd9a-46cc-95c7-077271e39d64))
+    (pin "1" (uuid 7d0451d1-e4a1-4cf6-9a2c-4db458e0bb4d))
+    (pin "2" (uuid 68c9f507-b5ee-437f-8543-bf78479377bb))
     (instances
       (project "actuator"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/de858789-f791-428c-b810-2c6120320e8e"
@@ -870,8 +870,8 @@
     (property "Part" "VLS3012HBX-3R3M" (at 102.87 59.69 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (pin "1" (uuid 03d7eff9-4201-4d17-94d1-bceb95714a4d))
-    (pin "2" (uuid 36bfe255-f633-49dc-b90c-696db449a68d))
+    (pin "1" (uuid 75ab6405-1d11-45df-9315-bc982098d12d))
+    (pin "2" (uuid a92de747-d97f-49d1-892f-e1a67e85c41c))
     (instances
       (project "actuator"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/de858789-f791-428c-b810-2c6120320e8e"
@@ -924,8 +924,8 @@
     (property "Part" "C30926" (at 72.39 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f7dcbabb-2b96-4767-ac6c-d37459933752))
-    (pin "2" (uuid 4d474f8b-86be-44f4-bc92-6806697261cd))
+    (pin "1" (uuid 3d9c3719-af15-481c-adca-4fc9b6e605d7))
+    (pin "2" (uuid 8f49c2cb-f784-41d9-be8d-dee8e39ab3e0))
     (instances
       (project "actuator"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/de858789-f791-428c-b810-2c6120320e8e"
@@ -953,8 +953,8 @@
     (property "Part" "C203527" (at 59.69 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8fbfb8d3-f20a-4aee-8f6c-d2cc5d5b2225))
-    (pin "2" (uuid b1fada9a-f2ca-4e5b-bd22-4b62313769e8))
+    (pin "1" (uuid 1d7738a3-cd10-4aa3-8860-27454885f88a))
+    (pin "2" (uuid 3e56fc29-2270-4b7d-82dd-1ccf34b5a953))
     (instances
       (project "actuator"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/de858789-f791-428c-b810-2c6120320e8e"
@@ -982,8 +982,8 @@
     (property "Part" "C202921" (at 139.7 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e59e309d-070f-4a82-8d6c-98f92b38d91a))
-    (pin "2" (uuid 58e2acfd-becf-4311-9d34-adc24f0fe465))
+    (pin "1" (uuid 91ba4151-fd73-4c3c-b88b-7282f1bfb089))
+    (pin "2" (uuid 978c3e79-43e4-4294-90ef-7cc074d65ae3))
     (instances
       (project "actuator"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/de858789-f791-428c-b810-2c6120320e8e"
@@ -1011,8 +1011,8 @@
     (property "Part" "C202921" (at 140.97 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f9a8c203-dee1-444e-997f-da800fb292a3))
-    (pin "2" (uuid 32baea25-6bee-43de-b0b5-ed8ff79a2bf3))
+    (pin "1" (uuid 0e6121d1-9934-4078-b434-443fed5e39c3))
+    (pin "2" (uuid 3fc25b66-75c3-4a23-a739-50c3ffb84582))
     (instances
       (project "actuator"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/de858789-f791-428c-b810-2c6120320e8e"
@@ -1090,8 +1090,8 @@
     (property "Part" "C203527" (at 69.85 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 987f481f-47a0-44e8-9489-a937ef878828))
-    (pin "2" (uuid 41edab46-4df5-4eb9-8959-8803a7afeeac))
+    (pin "1" (uuid 00045180-6a21-4a5c-99fd-93718441bcec))
+    (pin "2" (uuid 619a44ea-cf85-429e-8266-50fdc7a01f12))
     (instances
       (project "actuator"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/de858789-f791-428c-b810-2c6120320e8e"
@@ -1116,27 +1116,27 @@
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/drv2665.pdf" (at 95.25 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9228c919-6f0a-4d01-b68e-3567dfd9bb7b))
-    (pin "10" (uuid 0e3963b4-8787-4dd1-872b-cec05093c252))
-    (pin "11" (uuid 7422745f-7451-4158-82e9-9f7fbec32bff))
-    (pin "12" (uuid f4a86554-dbe9-4c73-a73b-10a684a65197))
-    (pin "13" (uuid d8ed9e72-11fa-4182-804a-2068c878defd))
-    (pin "14" (uuid f5094933-72c5-46ed-9932-b4ba268a8ac2))
-    (pin "15" (uuid 4c62765f-0705-452c-96bc-2e4d88a85c5c))
-    (pin "16" (uuid 738a9c43-fe52-4967-a4d0-dca9db2db751))
-    (pin "17" (uuid 8be426db-1b17-4385-91d6-3f6d2e128da5))
-    (pin "18" (uuid 977d66d8-6f01-4705-b5fa-9d7120359b77))
-    (pin "19" (uuid 6c7dba40-64c8-4b66-b232-3c1d706cf457))
-    (pin "2" (uuid 36b2897a-c847-4bc0-aa21-1a851d99b239))
-    (pin "20" (uuid 33da1326-1c0d-4771-8f04-dcaf697719f5))
-    (pin "21" (uuid 427976bf-d7b1-49b8-9b23-aff33ed88fac))
-    (pin "3" (uuid af85e567-7f17-428c-bd93-f775fb711305))
-    (pin "4" (uuid 8606e9a7-b6bf-435f-a22e-1141583f01b6))
-    (pin "5" (uuid 9e2ea074-613f-459f-b943-e0488282e5cc))
-    (pin "6" (uuid b3066ee4-ab92-47d6-9436-7a25e350c688))
-    (pin "7" (uuid 9ebdd015-ba3c-46ae-858b-08fee1fd5159))
-    (pin "8" (uuid 42f9706d-f369-4de2-ab6a-6254f3a1ebea))
-    (pin "9" (uuid 02c3828f-e04c-46ae-853f-e4fcc1ac35a6))
+    (pin "1" (uuid 8a8fecb9-3823-410b-9f03-a15a88c91392))
+    (pin "10" (uuid 87935f7d-9b30-4e8b-96bb-390be3d42a5b))
+    (pin "11" (uuid e0008123-56e7-403e-836c-f7f9d824abf3))
+    (pin "12" (uuid d90cb413-c874-40d5-9e3a-d793535b2419))
+    (pin "13" (uuid 1767bc7d-58c0-4bbd-89a2-14c75240c5ca))
+    (pin "14" (uuid a8644687-dd13-43c9-bdc5-89db845e53d2))
+    (pin "15" (uuid f11c1969-2e8e-4b3d-ab17-fdd7f93e1ecb))
+    (pin "16" (uuid ea07e847-21b2-4471-bba3-2189048959ce))
+    (pin "17" (uuid fae0c18e-889e-4c32-aafe-bb5848b8285b))
+    (pin "18" (uuid be68089c-d046-4863-b7d8-cdf03ad51e43))
+    (pin "19" (uuid f2fc320b-4e42-405c-8c88-3a9e97107b16))
+    (pin "2" (uuid e8030057-d302-49da-beca-fbaf55be2f34))
+    (pin "20" (uuid 4746082f-5f57-45a2-b03a-dd601cf19698))
+    (pin "21" (uuid df04bb14-c377-4846-aa85-ba4ed8b54c66))
+    (pin "3" (uuid 73d7b8fd-b5ad-4d0a-9b15-6be92fedaeef))
+    (pin "4" (uuid ef5a336a-82c4-4bfe-9253-6badc118cb67))
+    (pin "5" (uuid 57010514-287c-4537-b5fd-a013b6b6565a))
+    (pin "6" (uuid fc26766e-27a8-434a-8e7c-fe616698663e))
+    (pin "7" (uuid 626ff7ad-babb-490b-a599-6e640a40d232))
+    (pin "8" (uuid 74a3d2f6-8efc-4ac4-8995-9d7156204ff5))
+    (pin "9" (uuid 3964bf16-609b-4f0d-a24a-4b2ac261e2ef))
     (instances
       (project "actuator"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/de858789-f791-428c-b810-2c6120320e8e"
