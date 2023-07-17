@@ -1004,7 +1004,7 @@
     (property "Reference" "C8" (at 66.04 87.63 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "0.1" (at 66.04 90.17 0)
+    (property "Value" "0.1 µF" (at 66.04 90.17 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 63.1952 92.71 0)
