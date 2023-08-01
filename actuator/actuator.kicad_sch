@@ -2199,7 +2199,7 @@
     (property "Value" "TestPoint" (at 95.25 140.97 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm" (at 88.9 135.89 0)
+    (property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm" (at 88.9 135.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 88.9 135.89 0)

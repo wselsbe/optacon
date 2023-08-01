@@ -34,7 +34,7 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.5,
+          "drill": 0.4,
           "height": 1.0,
           "width": 1.0
         },
@@ -57,7 +57,7 @@
         }
       ],
       "drc_exclusions": [
-        "courtyards_overlap|93040001|83550001|c3d693bb-8b79-4c4c-8f6d-fcf59053a0c7|ddd964d4-5de7-47e7-9a40-f306c9574b63",
+        "courtyards_overlap|93040001|84550001|c3d693bb-8b79-4c4c-8f6d-fcf59053a0c7|ddd964d4-5de7-47e7-9a40-f306c9574b63",
         "footprint_type_mismatch|104040000|87700000|c3d693bb-8b79-4c4c-8f6d-fcf59053a0c7|00000000-0000-0000-0000-000000000000"
       ],
       "meta": {
