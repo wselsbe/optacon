@@ -3138,7 +3138,7 @@
   (gr_text "DANGER\nDANGER\nHIGH VOLTAGE" (at 104.35 73.85) (layer "B.SilkS") (tstamp 76f2d397-8f3c-4799-a9c5-6ee7cbb8d293)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
-  (gr_text "piezo driver board\nrev 3" (at 103.95 43.75) (layer "B.SilkS") (tstamp 9dde1597-d68f-4433-b747-9a29be6e7782)
+  (gr_text "piezo driver board\nrev 3.1" (at 103.95 43.75) (layer "B.SilkS") (tstamp 9dde1597-d68f-4433-b747-9a29be6e7782)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
   (gr_text "v-cut" (at 82.55 95.75) (layer "Cmts.User") (tstamp 4c1c13e8-6d86-4d24-829c-b5eb44ff0f8f)

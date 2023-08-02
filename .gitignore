@@ -7,3 +7,4 @@
 **/*-backups/*.zip
 **.*-bak
 bak/**
+**/*.kicad_pcb.lck
