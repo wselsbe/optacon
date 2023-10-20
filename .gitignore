@@ -1,4 +1,4 @@
-**/*.sync-conflict*
+**/*sync-conflict*
 .venv/**
 **/__pycache__/**
 **/fp-info-cache
@@ -7,3 +7,4 @@
 **/*-backups/*.zip
 **.*-bak
 bak/**
+firmware/build/**
