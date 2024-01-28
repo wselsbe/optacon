@@ -3339,8 +3339,13 @@
       ) (tstamp 9c8a3b09-a643-45f2-a5a4-dd7f3aa0abcd))
   )
 
+  (gr_rect (start 30.725 91.05) (end 69.575 95.6)
+    (stroke (width 0.15) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 513a492a-5846-47e9-8320-e11c7a85f5b1))
   (gr_rect (start 28.9 45.9) (end 71.8 117.55)
     (stroke (width 0.1) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 3acb4df7-69a5-4b27-b852-b4a376cf1de9))
+  (gr_text "piezo motherboard\nrev 2" (at 58.25 89.7) (layer "B.SilkS") (tstamp 68e5febc-a576-410b-a6c3-e6fabde0bc85)
+    (effects (font (size 1 1) (thickness 0.15)) (justify left bottom mirror))
+  )
 
   (segment (start 36.75 84.13) (end 36.82 84.2) (width 0.3) (layer "F.Cu") (net 1) (tstamp 008ef6ef-eeef-4adf-b7b2-9a13ad786dbf))
   (segment (start 31.93 110.525) (end 30.73 109.325) (width 0.2) (layer "F.Cu") (net 1) (tstamp 0125c12f-3dd7-4661-ae9f-df6de19a038d))
